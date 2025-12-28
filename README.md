@@ -1,12 +1,12 @@
-🩸 Blood Bank Management System
-📌 Project Overview
+ Blood Bank Management System
+ @ Project Overview
 
 The Blood Bank Management System is a web-based application designed to manage blood donation and distribution efficiently.
 It helps blood banks maintain donor records, blood stock details, and request management in a structured and user-friendly way.
 
 This system aims to reduce manual work, improve data accuracy, and ensure quick availability of blood during emergencies.
 
-🎯 Objectives
+-> Objectives
 
 Maintain centralized blood donor information
 
@@ -18,7 +18,7 @@ Reduce paperwork and manual errors
 
 Provide fast and reliable blood availability information
 
-🛠️ Technologies Used
+-> Technologies Used
 Frontend
 
 HTML
@@ -37,12 +37,12 @@ MySQL
 
 Tools
 
-XAMPP / WAMP
+XAMPP
 
 VS Code
 
-👥 User Roles
-1️⃣ Admin
+ User Roles
+1️. Admin
 
 Login securely
 
@@ -54,7 +54,7 @@ Approve or reject blood requests
 
 View all reports
 
-2️⃣ Donor
+2️. Donor
 
 Register as a blood donor
 
@@ -70,23 +70,23 @@ Submit blood requests
 
 View request status
 
-✨ Key Features
+-> Key Features
 
-🔐 Secure Login System
+-> Secure Login System
 
-🧑‍⚕️ Donor Registration & Management
+-> Donor Registration & Management
 
-🩸 Blood Group-wise Stock Management
+-> Blood Group-wise Stock Management
 
-📄 Blood Request Handling
+ Blood Request Handling
 
-📊 Dashboard with Statistics
+ Dashboard with Statistics
 
-🔍 Search Functionality
+ Search Functionality
 
-🗂️ Database-driven Dynamic Content
+ Database-driven Dynamic Content
 
-🗃️ Database Structure (Main Tables)
+ Database Structure (Main Tables)
 
 admin – stores admin login details
 
@@ -98,7 +98,7 @@ blood_requests – blood request records
 
 donation_history – donor donation logs
 
-🖥️ System Workflow
+-> System Workflow
 
 Admin logs into the system
 
@@ -112,7 +112,7 @@ Blood request is submitted
 
 Admin processes the request
 
-📷 Screens (Optional)
+ Screens (Optional)
 
 Login Page
 
@@ -124,7 +124,7 @@ Blood Stock Page
 
 Request Management Page
 
-⚙️ Installation & Setup
+-> Installation & Setup
 
 Install XAMPP/WAMP
 
@@ -147,10 +147,10 @@ Open browser and run:
 
 http://localhost/blood-bank
 
-🔐 Default Admin Login (Example)
+-> Default Admin Login (Example)
 
 Username: admin
 
 Password: admin123
 
-⚠️ Change credentials after first login for security.
+# Change credentials after first login for security.
